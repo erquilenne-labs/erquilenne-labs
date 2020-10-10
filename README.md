@@ -1,3 +1,5 @@
-# Erquilenne Labs
+---
+title: Erquilenne Labs
+---
 
 Hello world.
